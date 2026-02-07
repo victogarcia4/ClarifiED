@@ -1,0 +1,5 @@
+{
+  "name": "ClarifiED",
+  "description": "An AI-powered tool to transform educational announcements into engaging, HTML-formatted messages for D2L Brightspace.",
+  "requestFramePermissions": []
+}
